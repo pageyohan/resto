@@ -1,15 +1,4 @@
 <h1>Liste des restaurants</h1>
-
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-
-</body>
-</html>
 <?php
 foreach($lesRestos as $unResto) {
     $unePhoto=getLaPhotoByIdR($unResto->idR);

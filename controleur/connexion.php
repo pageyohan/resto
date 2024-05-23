@@ -1,6 +1,5 @@
 <?php
 include_once "$racine/modele/bd.Authentification.php";
-include_once "$racine/modele/Authentification.php";
  
 // creation du menu burger
 
